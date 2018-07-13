@@ -1,0 +1,26 @@
+{
+	"search": {
+		"type": "GPU",
+		"start_price": 0.00,
+		"end_price": 500.00,
+		"terms": [
+			"1070",
+			"1080"
+		]
+	},
+	"reddit": {
+		"client_key": "xxxxxxxxxxxx",
+		"client_secret": "xxxxxxxxxx",
+		"username": "xxxxxxxxxx",
+		"password": "xxxxxxxxxxxx"
+	},
+	"twilio": {
+		"account_sid": "xxxxxxxxxx",
+		"auth_token": "xxxxxxx",
+		"receive_phones": [
+			"###########"
+		]
+		"send_phone": "###########"
+	},
+	"refresh_time": 30
+}
